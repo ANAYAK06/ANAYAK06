@@ -4,7 +4,7 @@ Full Stack Developer with 10+ years building and running ERP systems that compan
 
 ## About me
 
-- Currently based in Seinäjoki, Finland, with unrestricted right to work — no employer sponsorship required
+- Currently based in Tampere, Finland, with unrestricted right to work — no employer sponsorship required
 - Studying Finnish (A1) and looking for a full-stack or backend role in an enterprise or product team
 - Daily stack is React/Redux on the front end against .NET Web API and SQL Server, plus Node.js, Express and MongoDB on greenfield work, deployed on AWS
 
